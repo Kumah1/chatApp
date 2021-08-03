@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "248195692044",
+    "firebase_url": "https://f-kumchat.firebaseio.com",
+    "project_id": "f-kumchat",
+    "storage_bucket": "f-kumchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248195692044:android:b1fa42f8c2c12862d76029",
+        "android_client_info": {
+          "package_name": "com.kumah.kumchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248195692044-m8aaj97uc8cgnrnjmlmjukhtjeq1q410.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kumah.kumchat",
+            "certificate_hash": "1a7c635c5d36804e597e46ce94357e5b0e92f59f"
+          }
+        },
+        {
+          "client_id": "248195692044-lfe7f5idi6bf073lpmooo5rl3s7dcain.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlEc5kYw-g1If9o1uEA3ikgl1q65Cg3F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248195692044-lfe7f5idi6bf073lpmooo5rl3s7dcain.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
